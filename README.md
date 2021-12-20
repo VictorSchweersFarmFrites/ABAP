@@ -25,3 +25,4 @@ On 2021, February 28 the folder logic was changed, and the abapGit may not able 
 ## Run Unit Tests
 1. In transaction code SLG0, create the Subobject `LOGGER` for Object `ABAPUNIT`. 
 2. Launch unit test with `Ctrl` + `Alt` + `F10` 
+3. Run Tests
