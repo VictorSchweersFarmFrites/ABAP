@@ -27,3 +27,4 @@ On 2021, February 28 the folder logic was changed, and the abapGit may not able 
 2. Launch unit test with `Ctrl` + `Alt` + `F10` 
 3. Run Tests
 4. See result
+5. Go
